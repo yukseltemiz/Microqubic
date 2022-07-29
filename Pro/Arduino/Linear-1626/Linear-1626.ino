@@ -1,4 +1,4 @@
-// Attiny1626
+// Attiny1626 or Attiny3226
 // TMCstepper library 0.7.1 tested, now 0.7.3
 // megatinycore 2.3.2 tested
 

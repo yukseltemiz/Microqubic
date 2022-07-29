@@ -1,0 +1,20 @@
+Pour Copper Report
+------------------
+
+Report Written:     Friday, July 29, 2022
+Design Path:        C:\PROJECTS\Microqubic\Prototyping\pro\PCB\Prototyping\22.04_v9\1_Linear_short-1626\Linear_short.pcb
+Design Title:       
+Created:            14/12/2016 12:18:22
+Last Saved:         28/07/2022 15:55:54
+Editing Time:       48791 min
+Units:              mm (precision 2)
+
+U14.6 at 249.97,317.54 on layer Top Copper has no thermal spokes
+U14.9 at 249.97,318.74 on layer Top Copper has no thermal spokes
+U14.14 at 248.07,319.84 on layer Top Copper has no thermal spokes
+U14.21 at 248.47,318.34 on layer Top Copper has no thermal spokes
+U23.2 at 275.42,318.34 on layer Top Copper has no thermal spokes
+U24.2 at 288.42,318.34 on layer Top Copper has no thermal spokes
+C29.1 at 252.33,318.34 on layer Top Copper has no thermal spokes
+
+End Of Report.
